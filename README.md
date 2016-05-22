@@ -11,6 +11,6 @@ Autor:Oscar Efren Macias Ramirez
 Descripcion rapida:Juego programado en java usando greenfoot
 
 URL pagina Greenfoot
-http://www.greenfoot.org/scenarios/16797
+http://www.greenfoot.org/scenarios/16804
 
 URL video Youtube
