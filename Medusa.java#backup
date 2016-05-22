@@ -1,0 +1,96 @@
+import greenfoot.*;
+
+public class Medusa extends Enemigo
+{
+    private Nivel1 mundo;
+    
+    public void act() 
+    {
+        sigue();
+        super.disparo();
+        super.borde();
+    }    
+    
+    public void sigue()
+    {
+      int vel,res;  
+      vel = 1; //Establece la velocidad con que seguirá al héroe.
+      
+        mundo = (Nivel1)getWorld();
+        res=(((mundo.obtenXDeHeroe()-getX())^2)+((mundo.obtenYDeHeroe()-getY())^2))^(1/2);
+        
+        if(res<=10)
+       {
+         if ( mundo.obtenXDeHeroe() > getX() )
+         {
+            setLocation( getX()+vel, getY() );
+         }
+         else if ( mundo.obtenXDeHeroe() < getX() )
+         {
+            setLocation( getX()-vel, getY() );
+         }
+         if ( mundo.obtenYDeHeroe() > getY() )
+         {
+            setLocation( getX(), getY()+vel );
+         }
+         else if ( mundo.obtenYDeHeroe() < getY() )
+         {
+            setLocation( getX(), getY()-vel );
+         }
+       }
+        else
+       {
+          move(-1);
+       }
+      sprite();
+    }
+    
+    public void sprite()
+    {
+      
+           setImage("Medusa1.png");
+           Greenfoot.delay(1);
+           
+           setImage("Medusa2.png");
+           Greenfoot.delay(1); 
+           
+           setImage("Medusa3.png");
+           Greenfoot.delay(1);
+       
+           setImage("Medusa4.png");
+           Greenfoot.delay(1);
+       
+           setImage("Medusa5.png");
+           Greenfoot.delay(1);
+        
+           setImage("Medusa6.png");
+           Greenfoot.delay(1);
+       
+           setImage("Medusa7.png");
+           Greenfoot.delay(1);
+        
+           setImage("Medusa8.png");
+           Greenfoot.delay(1);
+       
+           setImage("Medusa9.png");
+           Greenfoot.delay(1);
+        
+           setImage("Medusa10.png");
+           Greenfoot.delay(1);
+       
+           setImage("Medusa11.png");
+           Greenfoot.delay(1);
+       
+           setImage("Medusa12.png");
+           Greenfoot.delay(1);
+        
+           setImage("Medusa13.png");
+           Greenfoot.delay(1);
+       
+           setImage("Medusa14.png");
+           Greenfoot.delay(1);
+       
+           setImage("Medusa15.png");
+           Greenfoot.delay(1);  
+    }
+}

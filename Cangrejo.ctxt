@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cangrejo
+comment0.text=\n\ Esta\ clase\ crea\ el\ objeto\ Cangrejo\ que\ pertenece\ al\ nivel\ 1.\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Este\ metodo\ es\ un\ loop\ que\ ejecuta\ todo\ lo\ que\ esta\ en\ su\ interior.\n
+comment2.params=
+comment2.target=void\ sprites()
+comment2.text=\n\ Este\ metodo\ cambia\ las\ imagenes\ a\ una\ velocidad\ considerable\ que\ aparente\ que\ nuestro\ objeto\ Cangrejo\ se\ mueva.\n
+numComments=3

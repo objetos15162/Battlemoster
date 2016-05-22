@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=DisparoD
+comment0.text=\n\ Esta\ clase\ sirve\ como\ contador\ de\ puntos\ y\ de\ vidas\ de\ acuerdo\ a\ su\ inicializacion.\n
+comment1.params=nivel\ direccion
+comment1.target=DisparoD(int,\ int)
+comment1.text=\n\ Este\ metodo\ es\ el\ constructor\ de\ la\ misma\ clase,\ al\ crear\ un\ objeto\ de\ esta\ pide\ como\ parametro\ el\ nivel\ (un\ numero)\ para\ saber\ a\ quien\ pretenece\ y\ la\ \n\ direccion\ para\ enviar\ al\ objeto\ a\ la\ derecha\ o\ a\ la\ izquierda.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Este\ metodo\ es\ un\ loop\ infinito\ que\ siempre\ ejecuta\ lo\ que\ este\ en\ su\ interior.\n
+comment3.params=
+comment3.target=void\ muevete()
+comment3.text=\n\ Este\ metodo\ solo\ hace\ que\ el\ objeto\ se\ mueva\ a\ la\ izquierda.\n
+comment4.params=
+comment4.target=void\ checaOrilla()
+comment4.text=\n\ Esta\ Metodo\ es\ utilizado\ para\ detectar\ si\ la\ bala\ a\ tocado\ alguna\ orilla\ de\ la\ pantalla.\n
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tablero
+comment0.text=\n\ Esta\ clase\ sirve\ como\ contador\ de\ puntos\ y\ de\ vidas\ de\ acuerdo\ a\ su\ inicializacion.\n
+comment1.params=c\ msj
+comment1.target=Tablero(int,\ java.lang.String)
+comment1.text=\n\ Este\ metodo\ es\ el\ constructor\ de\ la\ clase\ en\ ella\ se\ esta\ estableciendo\ las\ configuraciones\ de\ un\ texto\ con\ cierto\ tama\u00F1o.\n
+comment2.params=
+comment2.target=void\ dibuja()
+comment2.text=\n\ Este\ metodo\ dibuja\ lo\ que\ establecio\ el\ constructor.\n
+comment3.params=
+comment3.target=void\ incrementa()
+comment3.text=\n\ Este\ metodo\ incrementa\ el\ tablero\ en\ una\ unidad.\n
+comment4.params=
+comment4.target=void\ decrementa()
+comment4.text=\n\ Este\ metodo\ decrementa\ el\ tablero\ en\ una\ unidad.\n
+comment5.params=
+comment5.target=int\ obtenerValor()
+comment5.text=\n\ Este\ metodo\ regresa\ el\ valor\ del\ tablero\ a\ quien\ lo\ requiera.\n
+numComments=6

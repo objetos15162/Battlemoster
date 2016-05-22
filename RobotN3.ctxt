@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RobotN3
+comment0.text=\n\ Esta\ clase\ crea\ el\ objeto\ RobotN3\ que\ pertenece\ al\ nivel\ 3.\n
+comment1.params=nivel
+comment1.target=RobotN3(int)
+comment1.text=\n\ Este\ metodo\ es\ el\ constructor\ y\ sirve\ para\ enviar\ el\ nivel\ del\ objeto\ a\ la\ clase\ padre.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Este\ metodo\ es\ un\ loop\ que\ ejecuta\ todo\ lo\ que\ esta\ en\ su\ interior.\n
+comment3.params=
+comment3.target=void\ sprite()
+comment3.text=\n\ Este\ metodo\ cambia\ las\ imagenes\ a\ una\ velocidad\ considerable\ que\ aparente\ que\ nuestro\ objeto\ MedusaN3\ se\ mueva.\n
+numComments=4

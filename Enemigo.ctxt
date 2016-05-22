@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Enemigo
+comment0.text=\n\ Esta\ clase\ se\ creo\ para\ evitar\ la\ duplicidad\ de\ codigo,\ en\ ella\ se\ encuentra\ verificar\ borde,disparo,mover\ y\ sigue.\n\ El\ metodo\ borde\ checa\ si\ algun\ enemigo\ a\ tocado\ el\ borde\ de\ la\ pantalla.\n\ El\ metodo\ disparo\ verifica\ si\ la\ bala\ del\ heroe\ a\ tocado\ algun\ enemigo.\n\ El\ metodo\ mover\ sirve\ para\ mover\ el\ objeto\ en\ una\ unidad\ hacia\ la\ derecha.\n\ El\ metodo\ sigue\ es\ para\ que\ el\ objeto\ pueda\ seguir\ a\ heroe.\n
+comment1.params=
+comment1.target=int\ borde()
+comment1.text=\n\ Este\ metodo\ verifica\ si\ algun\ enemigo\ a\ tocado\ el\ borde\ de\ la\ patalla.\n
+comment2.params=
+comment2.target=int\ disparo()
+comment2.text=\n\ Este\ metodo\ verifiaca\ si\ algun\ enemigo\ a\ sido\ alcanzado\ por\ la\ bala\ del\ heroe.\n
+comment3.params=
+comment3.target=void\ mover()
+comment3.text=\nEsta\ metodo\ hace\ que\ el\ objeto\ se\ mueva\ en\ una\ unidad\ hacia\ adelante.\n
+comment4.params=
+comment4.target=void\ sigue()
+comment4.text=\n\ Este\ metodo\ pide\ las\ coordenadas\ a\ mundo\ del\ heroe\ para\ que\ nuestro\ objeto\ pueda\ seguirl\n
+numComments=5

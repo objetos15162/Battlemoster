@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Mina
+comment0.text=\n\ Esta\ clase\ crea\ el\ objeto\ mina\ que\ pertenece\ a\ cualquier\ nivel\ que\ se\ requiera.\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Este\ metodo\ es\ un\ loop\ que\ ejecuta\ todo\ lo\ que\ esta\ en\ su\ interior.\n
+comment2.params=
+comment2.target=void\ moverAbajo()
+comment2.text=\nEsta\ metodo\ hace\ que\ el\ objeto\ se\ mueva\ en\ una\ unidad\ hacia\ abajo.\n
+numComments=3

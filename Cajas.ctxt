@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cajas
+comment0.text=\n\ Esta\ clase\ se\ creo\ para\ evitar\ la\ duplicidad\ de\ codigo,\ en\ ella\ se\ encuentra\ verificar\ borde\ y\ toca\n\ el\ toca\ es\ el\ encargado\ de\ mover\ en\ una\ unidad\ hacia\ abajo\ y\ verifica\ si\ nuestro\ heroe\ toco\ el\ objeto,\n\ el\ borde\ es\ el\ encargado\ de\ verificar\ si\ a\ tocado\ el\ borde\ de\ ser\ cierto\ elimina\ ese\ objeto.\n\ \n\ Tambien\ contiene\ una\ variable\ nivel\ que\ sirve\ hacia\ donde\ hay\ que\ enviar\ los\ mensajes\ de\ eliminacion.\n
+comment1.params=
+comment1.target=void\ toca()
+comment1.text=\n\ Esta\ metodo\ mueve\ el\ objeto,verifica\ si\ a\ tocado\ el\ borde\ y\ verifica\ si\ el\ heroe\ lo\ a\ tocado.\n
+comment2.params=
+comment2.target=void\ mover()
+comment2.text=\n\ Este\ metodo\ mueve\ hacia\ abajo\ a\ el\ objeto.\n
+comment3.params=
+comment3.target=int\ borde()
+comment3.text=\n\ Este\ metodo\ verifica\ si\ el\ objeto\ a\ tocado\ el\ borde\ de\ la\ pantalla.\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\n\ Este\ escenario\ es\ el\ primero\ en\ mostrarce\ al\ ejecutar\ el\ programa\n\ en\ ella\ estan\ las\ opciones\ de\ ayuda\ y\ juego.\n
+comment1.params=
+comment1.target=Menu()
+comment1.text=\n\ Este\ metodo\ inicializa\ la\ pantalla.\n
+comment2.params=
+comment2.target=void\ muestraBotones()
+comment2.text=\n\ Este\ metodo\ coloca\ en\ la\ pantalla\ nuestros\ objetos.\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Este\ metodo\ es\ un\ loop\ infinito(verifica\ simepre\ lo\ que\ esta\ en\ su\ interior).\n
+numComments=4

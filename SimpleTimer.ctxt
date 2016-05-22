@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SimpleTimer
+comment0.text=\n\ Clase\ creada\ por\ Greenfoot\ que\ recoge\ el\ tiempo\ de\ la\ maquina\ del\ momento\ de\ su\ ejecucion\ \n\ y\ sirve\ como\ contador\ de\ tiempo\n
+comment1.params=
+comment1.target=void\ mark()
+comment2.params=
+comment2.target=int\ millisElapsed()
+numComments=3

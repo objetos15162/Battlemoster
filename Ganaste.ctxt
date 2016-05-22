@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ganaste
+comment0.text=\n\ Esta\ es\ una\ clase\ es\ usado\ cuando\ hemos\ ganado\ el\ juego.\n
+comment1.params=
+comment1.target=Ganaste()
+comment1.text=\n\ Este\ metodo\ es\ es\ llamado\ cuando\ hemos\ ganado\ el\ juego,\ nos\ manda\ un\ mensaje\ de\ ganaste.\n
+numComments=2

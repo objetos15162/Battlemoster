@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ayuda
+comment0.text=\n\ Este\ Escenario\ es\ puesto\ cuando\ necesitamos\ la\ auyda\ de\ este\ juego.\n
+comment1.params=
+comment1.target=Ayuda()
+comment1.text=\n\ Este\ metodo\ pre-inicializa\ la\ pantalla.\n
+comment2.params=
+comment2.target=void\ muestraBoton()
+comment2.text=\n\ Este\ metodo\ coloca\ los\ objetos\ en\ la\ patalla.\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Este\ metodo\ es\ un\ loop\ infinito(siempre\ se\ esta\ ejecutando).\n
+numComments=4

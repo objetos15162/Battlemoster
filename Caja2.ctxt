@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Caja2
+comment0.text=\n\ Esta\ clase\ es\ la\ caja\ magica\ que\ en\ ella\ se\ encuentra\ un\ poder\n
+comment1.params=nivel
+comment1.target=Caja2(int)
+comment1.text=\n\ Este\ metodo\ es\ el\ constructor\ que\ se\ encarga\ de\ inicializar\ la\ clase\ y\ que\ a\ su\ vez\ inicializa\ a\ Cajas\ con\ el\ nivel(para\ que\ sepa\ a\ donde\ enviar\ los\ mensajes).\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Este\ metodo\ es\ el\ loop\ infinito\ que\ verifica\ por\ medio\ de\ la\ herencia\ el\ metodo\ \ tocar\ de\ la\ clase\ Cajas(ejecuta\ todo\ lo\ que\ que\ este\ en\ su\ interior).\n
+numComments=3
