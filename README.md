@@ -2,7 +2,7 @@
 
 Titulo del Proyecto:BattleMonster
 
-Proposito del Proyecto:Juego dedicada a entretener
+Proposito del Proyecto:Juego dedicado a entretener
 
 Version:1VF Martes 24 de Mayo del 2016
 
