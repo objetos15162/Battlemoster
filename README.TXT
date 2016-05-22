@@ -1,12 +1,11 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Titulo del Proyecto:BattleMonster
+Proposito del Proyecto:Juego dedicada a entretener
+Version:1VF Martes 24 de Mayo del 2016
+Autor:Oscar Efren Macias Ramirez
+Descripcion rapida:Juego programado en java usando greenfoot
+
+URL pagina Greenfoot:
+http://www.greenfoot.org/scenarios/16797
+URL video Youtube:
+
